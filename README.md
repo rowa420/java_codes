@@ -1,14 +1,17 @@
 # java_codes
   
 #technologies
- -java
- -jdk
+  -java
+  -jdk
  
 #tolls
-  -netbeans
+    -netbeans
  
 #Prerequisite
-  -insatlled java
-  -netbeans
+    -insatlled java
+    -netbeans
   
-#
+#how to run project 
+    -clone this repository
+    -run it in any ide
+    
